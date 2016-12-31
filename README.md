@@ -1,5 +1,4 @@
 # hello-world
-repository tutorial
 
 Hello all,
 
